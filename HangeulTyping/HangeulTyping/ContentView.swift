@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  한글타이핑
+//  HangeulTyping
 //
 //  Created by 임 용관 on 2023/03/28.
 //
